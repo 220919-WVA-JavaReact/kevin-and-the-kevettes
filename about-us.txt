@@ -1,14 +1,13 @@
 Hello my name is Kevin
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Tyler g
-=======
-=======
+
+
 I'm Jonny :)
->>>>>>> 1cc13ae289dab7ee55eff0987b657d70ba082118
+
 sam...
-<<<<<<< HEAD
->>>>>>> 37f67b6a8ad7480f8d0f695538011331cbf22ca7
-=======
+
+
 sam???
->>>>>>> 88891b9e47fcdde3646beec0353d20d04add8a51
+
+Morgan was here
