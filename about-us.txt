@@ -1,2 +1,6 @@
 Hello my name is Kevin
+<<<<<<< HEAD
 Tyler g
+=======
+sam...
+>>>>>>> 37f67b6a8ad7480f8d0f695538011331cbf22ca7
