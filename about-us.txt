@@ -1,12 +1,7 @@
 Hello my name is Kevin
 I'm Jonny :)
 sam...
-<<<<<<< HEAD
-
 Im Les
-
-=======
->>>>>>> 22a7d9928b825b7be117d171b3e72fc533757015
 sam???
 kev again
 Morgan was here
