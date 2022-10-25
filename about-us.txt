@@ -10,7 +10,6 @@ sam...
 
 
 sam???
-<<<<<<< HEAD
 
 Morgan was here
 
@@ -19,7 +18,5 @@ Tyler g
 Richard
 
 
-=======
 Cory
 sam a third time
->>>>>>> c82b1722dfd9f0a0e4c9fce6e38697ee5a8faa69
