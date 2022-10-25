@@ -1,5 +1,5 @@
 Hello my name is Kevin
-<<<<<<< HEAD
+
 
 Tyler g
 
@@ -12,14 +12,9 @@ sam...
 sam???
 
 Morgan was here
-=======
+
 Tyler g
-I'm Jonny :)
+
 Richard
-sam...
-sam???
-<<<<<<< HEAD
->>>>>>> 5750ad354b2d10bfb401345832ea6f508597c661
-=======
-sam a third time
->>>>>>> b53c21a9a50bef9fa44087f48fc109d52ddb4657
+
+
